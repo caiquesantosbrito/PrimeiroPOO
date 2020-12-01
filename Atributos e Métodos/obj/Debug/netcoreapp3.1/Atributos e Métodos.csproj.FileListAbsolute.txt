@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Atributos e Métodos - POO\Atributos e Métodos\bin\Debug\netcoreapp3.1\Atributos e Métodos.exe
+C:\Users\caisb\OneDrive\Desktop\Atributos e Métodos - POO\Atributos e Métodos\bin\Debug\netcoreapp3.1\Atributos e Métodos.deps.json
+C:\Users\caisb\OneDrive\Desktop\Atributos e Métodos - POO\Atributos e Métodos\bin\Debug\netcoreapp3.1\Atributos e Métodos.runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Atributos e Métodos - POO\Atributos e Métodos\bin\Debug\netcoreapp3.1\Atributos e Métodos.runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Atributos e Métodos - POO\Atributos e Métodos\bin\Debug\netcoreapp3.1\Atributos e Métodos.dll
+C:\Users\caisb\OneDrive\Desktop\Atributos e Métodos - POO\Atributos e Métodos\bin\Debug\netcoreapp3.1\Atributos e Métodos.pdb
+C:\Users\caisb\OneDrive\Desktop\Atributos e Métodos - POO\Atributos e Métodos\obj\Debug\netcoreapp3.1\Atributos e Métodos.csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Atributos e Métodos - POO\Atributos e Métodos\obj\Debug\netcoreapp3.1\Atributos e Métodos.AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Atributos e Métodos - POO\Atributos e Métodos\obj\Debug\netcoreapp3.1\Atributos e Métodos.AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Atributos e Métodos - POO\Atributos e Métodos\obj\Debug\netcoreapp3.1\Atributos e Métodos.csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Atributos e Métodos - POO\Atributos e Métodos\obj\Debug\netcoreapp3.1\Atributos e Métodos.dll
+C:\Users\caisb\OneDrive\Desktop\Atributos e Métodos - POO\Atributos e Métodos\obj\Debug\netcoreapp3.1\Atributos e Métodos.pdb
+C:\Users\caisb\OneDrive\Desktop\Atributos e Métodos - POO\Atributos e Métodos\obj\Debug\netcoreapp3.1\Atributos e Métodos.genruntimeconfig.cache
